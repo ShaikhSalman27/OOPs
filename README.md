@@ -1,7 +1,6 @@
 # OOPs
 
 class Employee:
-    
     increment = 1.5
     no_of_emp = 0
     
